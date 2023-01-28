@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5dQ7fVj3TIc" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Knowledge Check Module 1</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Knowledge_Check_Module_1_ORG">
+    <organization identifier="Knowledge_Check_Module_1_ORG">
+      <title>Knowledge Check Module 1</title>
+      <item identifier="Knowledge_Check_Module_1_SCO" isvisible="true" identifierref="__5dQ7fVj3TIc_RES">
+        <title>Knowledge Check Module 1</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5dQ7fVj3TIc_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ahiHKEyhKo_80.jpg" />
+      <file href="story_content/5jpzNDqQGwD_44100_48_0.mp3" />
+      <file href="mobile/6Vu0RSxrJSt_P_645_0_779_1080.png" />
+      <file href="mobile/6MlCsPYyLAQ.png" />
+      <file href="mobile/6E0rymTBBXk.png" />
+      <file href="mobile/6OFlvltIACp_80.jpg" />
+      <file href="mobile/6apZ19yOVYc_80.jpg" />
+      <file href="story_content/6HHj2bYt3uT_44100_48_0.mp3" />
+      <file href="story_content/6leipZc2uLV_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5mhEotc9XAU.png" />
+      <file href="mobile/Shape6ePAI7L9N7Q.png" />
+      <file href="mobile/Shape61iL1XKedjU.png" />
+      <file href="mobile/Shape5hPRWB0STW5.png" />
+      <file href="mobile/Shape6nWiRQD7Y1q.png" />
+      <file href="mobile/Shape69sbRigzJAN.png" />
+      <file href="mobile/Shape6BhBZBaVIPL.png" />
+      <file href="mobile/Shape6NWQ8Bc1WFe.png" />
+      <file href="mobile/Shape6KychwpuMyJ.png" />
+      <file href="mobile/Shape6KE4COlJWPw.png" />
+      <file href="mobile/Shape6ml0evfC8jQ.png" />
+      <file href="mobile/Shape6fPubvh30zo.png" />
+      <file href="mobile/Shape5damYfnGoWg.png" />
+      <file href="mobile/Shape5h6yny1y9pG.png" />
+      <file href="mobile/Shape696HTwnPmls.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gNCIld3IO9.js" />
+      <file href="html5/data/js/5lPCQ17jefl.js" />
+      <file href="html5/data/js/5yol9MDwRkM.js" />
+      <file href="html5/data/js/63mBfZ2YXtc.js" />
+      <file href="html5/data/js/6cJlVD4fhdQ.js" />
+      <file href="html5/data/js/6DjVZ1HXjK9.js" />
+      <file href="html5/data/js/6DoTl6jnkzy.js" />
+      <file href="html5/data/js/6kX6wygbXCs.js" />
+      <file href="html5/data/js/6oUNuWQcQpj.js" />
+      <file href="html5/data/js/6q93LuuhSLV.js" />
+      <file href="html5/data/js/6Z479OkIbTV.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
